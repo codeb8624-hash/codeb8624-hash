@@ -3,7 +3,7 @@
 <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- 💡 <em>✏️ A sentence about you and what you do.</em>
+- 💡 <em>✏️  Software Developer with hands-on experience in Python Backend Development, Android Application Development, and AI-powered Software Solutions. Skilled in FastAPI, Flask, RESTful API Development, MySQL, SQLite, and AI Integration using OpenRouter and ChromaDB. Completed an Android Development Internship at AppCrown Infotech and developed multiple real-world applications, including AI-based Systems, ERP Software, and Android Applications.</em>
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
